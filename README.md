@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
 Key | Type | Default | Value
 --- | --- | --- | --- 
 color | String | #444 | all css color formats
-textColor | String | #444 | all css color formats
+labelColor | String | #444 | all css color formats
 disabled | Boolean | false | true / false
 label | String | You forgot to give label | any string
 layout | String | column | row / column
