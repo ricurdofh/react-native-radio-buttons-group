@@ -88,11 +88,14 @@ const styles = StyleSheet.create({
 Key | Type | Default | Value
 --- | --- | --- | --- 
 color | String | #444 | all css color formats
+textColor | String | #444 | all css color formats
 disabled | Boolean | false | true / false
 label | String | You forgot to give label | any string
 layout | String | column | row / column
 selected | Boolean | false | true / false
 size | Number | 24 | positive numbers
+fontSize | Number | 10 | positive numbers
+fontFamily | String | Default font family | any font family string
 value | String | value assigned to label | any string
 
 ###### Horizontal (side by side)
